@@ -1,0 +1,18 @@
+* {
+    background-color: #24283b;
+    font-family: "JetBrainsMono Nerd Font", Courier, monospace;
+    color: #a9b1d6;
+}
+
+h1 {
+    color: #f7768e;
+    font-size: 42px;
+}
+
+h2 {
+    color: #9ece6a;
+}
+
+a {
+    color: #2ac3de;
+}

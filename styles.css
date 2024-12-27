@@ -2,6 +2,21 @@
     background-color: #24283b;
     font-family: "JetBrainsMono Nerd Font", Courier, monospace;
     color: #a9b1d6;
+    font-size: 18px;
+}
+
+img {
+    margin: 32px auto;
+    height: 350px;
+    width: auto;
+    display: block;
+}
+
+.main {
+    width: 700px;
+    margin: 16px auto;
+    margin-bottom: 120px;
+    margin-top: 50px;
 }
 
 h1 {
